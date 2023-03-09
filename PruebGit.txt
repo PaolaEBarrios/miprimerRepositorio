@@ -7,3 +7,5 @@ Este es el segundo cambiio
 >>>>>>> e6345f80e44e7ccd68761d5eb4e9ac89867a5848
 ESTO ES PORQUE ME OBLIGAN 2
 Esto es para que falle y arreglar 2
+Esto es para revivir los pasos 1
+
